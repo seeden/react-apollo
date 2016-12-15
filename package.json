@@ -1,5 +1,5 @@
 {
-  "name": "react-apollo",
+  "name": "apollo-react",
   "version": "0.7.1",
   "description": "React data container for Apollo Client",
   "main": "lib/index.js",

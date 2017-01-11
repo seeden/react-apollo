@@ -4,6 +4,7 @@ Expect active development and potentially significant breaking changes in the `0
 
 ### vNext
 - Bug: [Issue #404](https://github.com/apollostack/react-apollo/issues/404) fix issue with network errors thrown when changing variables.
+- Update version of the apollo-client to 0.6 || 0.7
 
 ### 0.8.2
 - Chore: [PR #403](https://github.com/apollostack/react-apollo/pull/403) move react-dom to be an optional dependency for better react-native builds.
